@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋 I'm Marwan</h1>
+
+# 💁‍♂️ About Me:
 <br>An Aspiring Data Analyst
 
 ## 🚀 What I'm Up To:
